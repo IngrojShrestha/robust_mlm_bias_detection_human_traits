@@ -1,0 +1,6 @@
+[DETERMINER][AAA] is [ARTICLE] [TTT] person.
+[DETERMINER][AAA] is [TTT].
+[DETERMINER][AAA] possesses [ARTICLE] [TTT] personality.
+[DETERMINER][AAA] is known for [PRONOUN] [TTT] personality.
+people admire [DETERMINER][AAA] because of [PRONOUN] [TTT] personality.
+[DETERMINER][AAA]'s [TTT] personality is valued at [PRONOUN] work.
